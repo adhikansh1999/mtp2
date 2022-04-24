@@ -1,0 +1,12 @@
+binaries/wget, MB: 2,Time:  142.61080694198608, Memory: 637.671875, LMSes: 648, No. of Edges in LMS Control Flow Graph: 1614, Num of Connected Components: 46
+binaries/wget, MB: 3,Time:  167.13357973098755, Memory: 661.02734375, LMSes: 985, No. of Edges in LMS Control Flow Graph: 2559, Num of Connected Components: 51
+binaries/wget, MB: 4,Time:  178.31827759742737, Memory: 668.3515625, LMSes: 1010, No. of Edges in LMS Control Flow Graph: 2619, Num of Connected Components: 53
+binaries/wget, MB: 5,Time:  189.3228657245636, Memory: 669.6484375, LMSes: 1021, No. of Edges in LMS Control Flow Graph: 2680, Num of Connected Components: 56
+binaries/apache2, MB: 2,Time:  208.00072312355042, Memory: 631.0390625, LMSes: 1499, No. of Edges in LMS Control Flow Graph: 1541, Num of Connected Components: 481
+binaries/apache2, MB: 3,Time:  251.70066046714783, Memory: 632.421875, LMSes: 1523, No. of Edges in LMS Control Flow Graph: 1562, Num of Connected Components: 490
+binaries/apache2, MB: 4,Time:  267.66871881484985, Memory: 632.4453125, LMSes: 1530, No. of Edges in LMS Control Flow Graph: 1575, Num of Connected Components: 489
+binaries/apache2, MB: 5,Time:  277.7950267791748, Memory: 632.36328125, LMSes: 1530, No. of Edges in LMS Control Flow Graph: 1569, Num of Connected Components: 491
+binaries/openvpn, MB: 2,Time:  379.1922445297241, Memory: 1006.26953125, LMSes: 2281, No. of Edges in LMS Control Flow Graph: 5110, Num of Connected Components: 400
+binaries/openvpn, MB: 3,Time:  400.26977491378784, Memory: 1000.19921875, LMSes: 2513, No. of Edges in LMS Control Flow Graph: 5657, Num of Connected Components: 356
+binaries/openvpn, MB: 5,Time:  399.0723578929901, Memory: 1000.171875, LMSes: 2537, No. of Edges in LMS Control Flow Graph: 5757, Num of Connected Components: 354
+binaries/openvpn, MB: 4,Time:  405.32859468460083, Memory: 1000.3515625, LMSes: 2535, No. of Edges in LMS Control Flow Graph: 5732, Num of Connected Components: 356

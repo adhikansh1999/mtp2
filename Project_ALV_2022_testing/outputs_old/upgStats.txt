@@ -1,0 +1,16 @@
+MaxBackTrace = 3, lookahead level = 15
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+
+--------------------------------------------------
+
+
+Nodes: 5, Edges: 3, Num of Connected Components: 2Nodes: 5, Edges: 3, Num of Connected Components: 2Nodes: 5, Edges: 3, Num of Connected Components: 2Nodes: 5, Edges: 3, Num of Connected Components: 2Nodes: 5, Edges: 3, Num of Connected Components: 2

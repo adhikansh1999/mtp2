@@ -1,0 +1,9 @@
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 5, Edges: 3, Num of Connected Components: 2
+Nodes: 89, Edges: 69, Num of Connected Components: 20
+Nodes: 89, Edges: 69, Num of Connected Components: 20
+Nodes: 89, Edges: 69, Num of Connected Components: 20
+Nodes: 219, Edges: 189, Num of Connected Components: 32
+Nodes: 219, Edges: 189, Num of Connected Components: 32
+Nodes: 219, Edges: 189, Num of Connected Components: 32

@@ -1,0 +1,13 @@
+binaries/wget, MB: 2,Time:  136.82477617263794, Memory: 637.8125, LMSes: 648, No. of Edges in LMS Control Flow Graph: 1614, Num of Connected Components: 46
+binaries/wget, MB: 2,Time:  137.52039575576782, Memory: 637.82421875, LMSes: 648, No. of Edges in LMS Control Flow Graph: 1614, Num of Connected Components: 46
+binaries/wget, MB: 3,Time:  168.85504603385925, Memory: 661.11328125, LMSes: 985, No. of Edges in LMS Control Flow Graph: 2509, Num of Connected Components: 51
+binaries/wget, MB: 4,Time:  180.4082064628601, Memory: 668.5078125, LMSes: 1010, No. of Edges in LMS Control Flow Graph: 2617, Num of Connected Components: 53
+binaries/wget, MB: 5,Time:  194.40762591362, Memory: 669.265625, LMSes: 1021, No. of Edges in LMS Control Flow Graph: 2681, Num of Connected Components: 56
+binaries/apache2, MB: 2,Time:  213.45156955718994, Memory: 630.89453125, LMSes: 1499, No. of Edges in LMS Control Flow Graph: 1566, Num of Connected Components: 473
+binaries/apache2, MB: 3,Time:  258.48894596099854, Memory: 632.1875, LMSes: 1523, No. of Edges in LMS Control Flow Graph: 1573, Num of Connected Components: 487
+binaries/apache2, MB: 4,Time:  273.9292232990265, Memory: 631.87109375, LMSes: 1530, No. of Edges in LMS Control Flow Graph: 1580, Num of Connected Components: 488
+binaries/apache2, MB: 5,Time:  274.5301332473755, Memory: 631.78125, LMSes: 1530, No. of Edges in LMS Control Flow Graph: 1572, Num of Connected Components: 493
+binaries/openvpn, MB: 2,Time:  378.27858805656433, Memory: 1000.67578125, LMSes: 2281, No. of Edges in LMS Control Flow Graph: 5067, Num of Connected Components: 401
+binaries/openvpn, MB: 3,Time:  412.6369912624359, Memory: 1000.5390625, LMSes: 2513, No. of Edges in LMS Control Flow Graph: 5886, Num of Connected Components: 310
+binaries/openvpn, MB: 5,Time:  408.6533091068268, Memory: 1005.1640625, LMSes: 2537, No. of Edges in LMS Control Flow Graph: 5763, Num of Connected Components: 344
+binaries/openvpn, MB: 4,Time:  402.63327622413635, Memory: 1005.91015625, LMSes: 2535, No. of Edges in LMS Control Flow Graph: 5928, Num of Connected Components: 311
